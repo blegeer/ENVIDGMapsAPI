@@ -15,6 +15,7 @@ The extension should appear in the "Extensions" folder in the ENVI toolbox. Titl
 
 ## Usage
 1. Double click on the extension to start. 
+![Plugin Start](screenshots/BlankStartup.png "Blank Startup")
 2. Move the mouse to the upper left of the extension window until the panel appears
 3. In the panel - enter you DG Maps API Key. 
 4. Load your imagery or vectors into the ENVI display - the plugin will update with the DG imagery that corresponds to the extent of the envi display. 
