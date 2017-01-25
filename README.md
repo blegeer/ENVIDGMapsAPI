@@ -18,7 +18,7 @@ The extension should appear in the "Extensions" folder in the ENVI toolbox. Titl
 ![Plugin Start](https://github.com/blegeer/ENVIDGMapsAPI/blob/master/Screenshots/BlankStartup.png "Blank Startup")
 2. Move the mouse to the upper left of the extension window until the panel appears
 ![Plugin Start](https://github.com/blegeer/ENVIDGMapsAPI/blob/master/Screenshots/BlankStartup_w_menu.png "Blank Startup")
-3. In the panel - enter you DG Maps API Key. 
+3. In the panel - enter your DG Maps API Key. 
 ![Plugin Start](https://github.com/blegeer/ENVIDGMapsAPI/blob/master/Screenshots/BlankStartup_w_menu_apikey.png "Blank Startup")
 4. Load your imagery or vectors into the ENVI display - the plugin will update with the DG imagery that corresponds to the extent of the envi display.
 ![Plugin Start](https://github.com/blegeer/ENVIDGMapsAPI/blob/master/Screenshots/ENVIwithPlugin.png "Blank Startup")
