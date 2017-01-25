@@ -15,12 +15,18 @@ The extension should appear in the "Extensions" folder in the ENVI toolbox. Titl
 
 ## Usage
 1. Double click on the extension to start. 
-![Plugin Start](screenshots/BlankStartup.png "Blank Startup")
+![Plugin Start](https://github.com/blegeer/ENVIDGMapsAPI/blob/master/Screenshots/BlankStartup.png "Blank Startup")
 2. Move the mouse to the upper left of the extension window until the panel appears
+![Plugin Start](https://github.com/blegeer/ENVIDGMapsAPI/blob/master/Screenshots/BlankStartup_w_menu.png "Blank Startup")
 3. In the panel - enter you DG Maps API Key. 
-4. Load your imagery or vectors into the ENVI display - the plugin will update with the DG imagery that corresponds to the extent of the envi display. 
+![Plugin Start](https://github.com/blegeer/ENVIDGMapsAPI/blob/master/Screenshots/BlankStartup_w_menu_apikey.png "Blank Startup")
+4. Load your imagery or vectors into the ENVI display - the plugin will update with the DG imagery that corresponds to the extent of the envi display.
+![Plugin Start](https://github.com/blegeer/ENVIDGMapsAPI/blob/master/Screenshots/ENVIwithPlugin.png "Blank Startup")
 5. Use the mouse wheel or buttons on the panel to zoom in and out of the imagery within the plugin. 
 6. When there are multiple views in the ENVI display, the plugin will show the extent of the currently selected view. 
+
+Use the menu in the upper left corner to switch map ids between imagery, street maps, terrain, etc. 
+![Plugin Start](https://github.com/blegeer/ENVIDGMapsAPI/blob/master/Screenshots/Imagery_Menu_Drop.png "Blank Startup")
 
 
 
