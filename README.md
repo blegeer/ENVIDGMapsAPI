@@ -7,7 +7,7 @@ This ENVI plugin creates a windows that displays DigitalGlobe imagery located wi
 ## Installation
 1. Download the envi_dg.maps.sav
 2. Copy the envi_dg_maps.sav file to the ENVI extensions directory on your platform
-  Windows: c:\users\<login>\.idl\envi\extensions5_3 directory
+  Windows: c:\users\\\<login>\\.idl\envi\extensions5_3 directory
   Linux: /users/\<login>/.idl/envi/extensions5_3 on Linux/Mac
 3. Restart ENVI
 
