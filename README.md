@@ -30,6 +30,7 @@ Use the menu in the upper left corner to switch map ids between imagery, street 
 
 ## Build From Source
 To build the envi_dg_maps.sav file from source follow the instructions below at the IDL> prompt.
+
 1. Reset the ENVI/IDL session
 
   ```python
