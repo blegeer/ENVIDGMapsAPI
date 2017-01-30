@@ -28,6 +28,29 @@ The extension should appear in the "Extensions" folder in the ENVI toolbox. Titl
 Use the menu in the upper left corner to switch map ids between imagery, street maps, terrain, etc. 
 ![Plugin Start](https://github.com/blegeer/ENVIDGMapsAPI/blob/master/Screenshots/Imagery_Menu_Drop.png "Blank Startup")
 
+## Build From Source
+To build the envi_dg_maps.sav file from source follow the instructions below at the IDL> prompt.
+1. Reset the ENVI/IDL session
+
+  ```python
+  .full_reset_session
+  ```
+2. Change to the directory with envi_dg_maps.pro and dg_mapsapi_getimageatcenter.pro files
+
+  ```python
+  cd, 'q:\idl\mapsapi'
+  ```
+3. Compile the files
+
+  ```python
+  .compile envi_dg_maps dg_mapsapi_getimageatcenter
+  ```
+4. Create the save file
+
+  ```python
+  save, /routine, filename = 'envi_dg_maps.sav'
+  ```
+5. Follow installation instructions above to add the save file to the extensions directory. 
 
 
 
