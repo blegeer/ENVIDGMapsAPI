@@ -2,7 +2,7 @@
 ENVI extension to display DG Maps
 
 ## Introduction
-This ENVI plugin creates a windows that displays DigitalGlobe imagery located within the ENVI display extent. A subscription to the DigitalGlobe MapsAPI (http://developer.digitalglobe.com) is required for use. This plugin has only been tested on ENVI 5.3. 
+This ENVI plugin creates a windows that displays DigitalGlobe imagery located within the ENVI display extent. A subscription to the DigitalGlobe MapsAPI (https://platform.digitalglobe.com/maps-api) is required for use. This plugin has only been tested on ENVI 5.3. 
 
 ## Installation
 1. Download the envi_dg.maps.sav
